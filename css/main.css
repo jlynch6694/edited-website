@@ -1,0 +1,61 @@
+.first {
+  text-shadow: 2px 2px 5px red;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  border-style: ridge;
+  max-width: 300px;
+  margin: 20px auto;
+}
+
+.gender {
+  left: 50px;
+}
+}
+.aboutme {
+  color: black;
+  background-color: yellow;
+  font-size: 24px;
+  border-style: dotted;
+  max-width: 150px;
+}
+
+.hobbies {
+  color: black;
+  background-color: yellow;
+  font-size: 24px;
+  border-style: dotted;
+  max-width: 400px;
+
+}
+
+/* Create two equal columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+}
+
+
+.about {
+  font-family: fantasy;
+  font-size: 14px;
+}
+
+.nineties {
+  top: 75px;
+}
+
+body {
+  background-image: url("../images/download.jpg");
+  background-size: cover;
+  color: blue;
+}
+
+
+a:hover {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
